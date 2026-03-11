@@ -35,7 +35,7 @@ Designed and developed a full-stack marketing platform from scratch for a remote
 - Fully responsive design for desktop, tablet, and mobile with hamburger menu
 
 ### Conversion Operating System (COS) Framework
-- Visual representation of Kerry's 5-phase GTM methodology: Signal Scan, Ideal Fit Blueprint, Messaging Framework, GTM Engine Upgrade, and Performance Loop
+- Visual representation of the client's proprietary 5-phase GTM methodology
 - Dedicated services section combining the COS framework with service offerings
 
 ### GTM Signal Scan - Interactive Diagnostic Tool
@@ -52,9 +52,9 @@ Designed and developed a full-stack marketing platform from scratch for a remote
 
 ### Contact Page
 - Dedicated /contact route with multiple engagement options
-- Calendly integration for 30-minute consultation booking
+- Calendly integration for consultation booking
 - Serverless contact form powered by Web3Forms API with client-side validation
-- Direct email link to Kerry@gtm-collective.com
+- Direct email option for business inquiries
 
 ### Analytics and Tracking
 - Google Analytics 4 integration for user behavior tracking
