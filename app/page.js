@@ -2302,7 +2302,7 @@ export default function Home() {
       <section className="hero">
         <div className="hero-content">
           <div className="container-narrow">
-            <h1>Accelerating Growth for InsurTech Leaders</h1>
+            <h1>Accelerating Growth for InsurTechs & Growth Companies</h1>
             <p>Success requires more than funding; it demands operational Go-To-Market (GTM) discipline in a complex, relationship-driven industry.</p>
             <a href="#assessment" className="cta-button">Discover Your GTM Health</a>
           </div>
@@ -2597,7 +2597,7 @@ export default function Home() {
           <h2>Meet Kerry Macca</h2>
           <div className="about-kerry">
             <div className="about-image">
-              <Image src="/kerry-headshot.JPG" alt="Kerry Macca, Founder of GTM Collective" width={420} height={520} />
+              <Image src="/kerry-headshot.jpg" alt="Kerry Macca, Founder of GTM Collective" width={420} height={520} />
             </div>
             <div className="about-content">
               <h3>Hi, I'm Kerry - Founder of GTM Collective</h3>

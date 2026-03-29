@@ -50,7 +50,6 @@
 //   )
 // }
 
-
 import './globals.css'
 import Script from 'next/script'
 
@@ -67,6 +66,12 @@ export const metadata = {
     url: 'https://gtm-collective.com',
     siteName: 'GTM Collective',
     type: 'website',
+  },
+  // ✅ ADD THIS
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon-32x32.png',
+    apple: '/apple-touch-icon.png',
   },
 }
 
